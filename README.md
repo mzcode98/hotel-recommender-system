@@ -1,1 +1,1 @@
-# hotel-recommender-system
+# hybrid-recommender-system
